@@ -7,7 +7,7 @@ Here is an example of a successful launch:
   
 <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif"/>
 
-Most unsuccessful landings are planned. Space X performs a controlled landing in the oceans.
+Most unsuccessful landings are planned. SpaceX performs a controlled landing in the oceans.
 
 <h1>Objective</h1>
 To apply data science toolkit and machine learning in order to accurately predict the likelihood of the first stage rocket landing successfully, and thus determine the cost of a launch.
